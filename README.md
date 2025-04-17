@@ -1,13 +1,7 @@
-Sure! Here's a `README.md` file for your Kubernetes multi-master setup script:
-
----
-
-```markdown
 # Kubernetes Multi-Master Setup Script (with HAProxy Load Balancer)
 
 This script automates the installation and configuration of a Kubernetes control plane node with a multi-master setup behind a load balancer (e.g., HAProxy or Keepalived). It configures container runtime, installs Kubernetes components, sets up networking, and generates the join command for adding additional master nodes.
 
----
 
 ## 🧰 Prerequisites
 
