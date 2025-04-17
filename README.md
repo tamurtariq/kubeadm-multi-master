@@ -113,8 +113,3 @@ sudo rm -rf /etc/kubernetes/ /var/lib/etcd ~/.kube
 ## 🛡️ License
 
 This script is provided as-is under the MIT License.
-```
-
----
-
-Let me know if you want this README saved to a file or customized for worker nodes or HAProxy setup too!
