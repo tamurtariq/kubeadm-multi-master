@@ -5,7 +5,7 @@ This script automates the installation and configuration of a Kubernetes control
 
 ## 🧰 Prerequisites
 
-- Ubuntu 20.04/22.04 based system (for each master node)
+- Ubuntu 22.04/24.04 based system (for each master node)
 - Static IP addresses assigned to each master
 - A load balancer (e.g., HAProxy or Keepalived) with a Virtual IP configured to distribute traffic to all master nodes on port `6443`
 - Internet access from each node
